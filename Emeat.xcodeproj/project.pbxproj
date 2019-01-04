@@ -473,8 +473,8 @@
 		165BCC9E20E1F6C6006883FB /* InvoiceHistoryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InvoiceHistoryViewController.m; sourceTree = "<group>"; };
 		165BCCA020E215A8006883FB /* InvoiceHistoryTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InvoiceHistoryTableViewCell.h; sourceTree = "<group>"; };
 		165BCCA120E215A8006883FB /* InvoiceHistoryTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InvoiceHistoryTableViewCell.m; sourceTree = "<group>"; };
-		165BCCA320E2214D006883FB /* InvoiceHistoryDetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = InvoiceHistoryDetailsViewController.h; path = "/Users/w/Desktop/赛鲜/Emeat/Source/CodeClass/My/Controller/InvoiceViewController/InvoiceHistoryDetailsViewController.h"; sourceTree = "<absolute>"; };
-		165BCCA420E2214E006883FB /* InvoiceHistoryDetailsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = InvoiceHistoryDetailsViewController.m; path = "/Users/w/Desktop/赛鲜/Emeat/Source/CodeClass/My/Controller/InvoiceViewController/InvoiceHistoryDetailsViewController.m"; sourceTree = "<absolute>"; };
+		165BCCA320E2214D006883FB /* InvoiceHistoryDetailsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = InvoiceHistoryDetailsViewController.h; path = "/Users/luomingsu/Desktop/赛鲜/Emeat/Source/CodeClass/My/Controller/InvoiceViewController/InvoiceHistoryDetailsViewController.h"; sourceTree = "<absolute>"; };
+		165BCCA420E2214E006883FB /* InvoiceHistoryDetailsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = InvoiceHistoryDetailsViewController.m; path = "/Users/luomingsu/Desktop/赛鲜/Emeat/Source/CodeClass/My/Controller/InvoiceViewController/InvoiceHistoryDetailsViewController.m"; sourceTree = "<absolute>"; };
 		165BCCA620E2320B006883FB /* InvoiceListModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InvoiceListModel.h; sourceTree = "<group>"; };
 		165BCCA720E2320B006883FB /* InvoiceListModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InvoiceListModel.m; sourceTree = "<group>"; };
 		165BCCA920E23AFA006883FB /* InvoiceHistoryDetailsTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = InvoiceHistoryDetailsTableViewCell.h; sourceTree = "<group>"; };
@@ -2666,7 +2666,7 @@
 					"$(PROJECT_DIR)/Emeat/Source/CodeClass/PaySDK/AlipaySDK",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/w/Desktop/优惠券版本/赛鲜/Emeat/Source/Resources/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "/Users/luomingsu/Desktop/赛鲜/Emeat/Source/Resources/PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"${PODS_ROOT}/Headers/Public\"",
@@ -2684,7 +2684,7 @@
 					"\"${PODS_ROOT}/Headers/Public/YYModel\"",
 					"$(SRCROOT)/Emeat",
 				);
-				INFOPLIST_FILE = /Users/w/Desktop/Emeat/Emeat/Source/Resources/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Emeat/Source/Resources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
@@ -2767,7 +2767,7 @@
 					"$(PROJECT_DIR)/Emeat/Source/CodeClass/PaySDK/AlipaySDK",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/w/Desktop/优惠券版本/赛鲜/Emeat/Source/Resources/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "/Users/luomingsu/Desktop/赛鲜/Emeat/Source/Resources/PrefixHeader.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"${PODS_ROOT}/Headers/Public\"",
@@ -2785,7 +2785,7 @@
 					"\"${PODS_ROOT}/Headers/Public/YYModel\"",
 					"$(SRCROOT)/Emeat",
 				);
-				INFOPLIST_FILE = /Users/w/Desktop/Emeat/Emeat/Source/Resources/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Emeat/Source/Resources/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
